@@ -4,7 +4,8 @@ Site web réalisé dans le cadre de la SAE du BUT Informatique (IUT de Maubeuge)
 
 ## Aperçu
 
-![Page d'accueil](<img width="1913" height="1063" alt="Accueil" src="https://github.com/user-attachments/assets/6aaf3ffe-fa59-495c-90e2-f65cede793c7" />)
+<img width="1913" height="1063" alt="Accueil" src="https://github.com/user-attachments/assets/f9c50cf1-af70-49c1-b32a-a1c0440bdb6b" />
+
 
 ## Contenu du site
 
